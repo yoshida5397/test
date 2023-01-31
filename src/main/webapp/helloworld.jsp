@@ -6,7 +6,7 @@
     java.util.Date now = new java.util.Date();
     System.out.println(now.toString());
 %>
-
+//テスト入力
 <!DOCTYPE html>
 <html>
 <head>
